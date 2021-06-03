@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EmmanuelObua
 - 👀 I’m interested in elegant software development as Full Stack.
-- 🌱 I’m currently perfecting ReactJS & React Native Technologies.
-- 💞️ I’m looking to collaborate on bigger projects in a few coming days.
+- 🌱 I’m currently perfecting ReactJS, React Native, VueJS, and Flutter Technologies.
+- 💞️ I’m looking forward to collaborating on bigger projects in a few coming days.
 - 📫 How to reach me WhatsApp https://wa.me/c/256777156882
 
 ## 🔧 Technologies & Tools
