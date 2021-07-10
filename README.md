@@ -20,7 +20,8 @@
 
 ![Obua's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelObua&count_private=true&theme=radical)
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelObua)](https://github.com/EmmanuelObua/github-readme-stats) --->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EmmanuelObua&theme=radical)](https://github.com/EmmanuelObua/EmmanuelObua)
+[![Emmanuel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EmmanuelObua)](https://github.com/EmmanuelObua)
+
   
 
 
