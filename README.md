@@ -14,10 +14,6 @@
 
 ## &#x1f4c8; GitHub Statistics
 
-[![wakatime](https://wakatime.com/badge/github/oducharles/pharmaserve.svg)](https://wakatime.com/badge/github/oducharles/pharmaserve)
-[![wakatime](https://wakatime.com/badge/github/EmmanuelObua/medicalstreet.svg)](https://wakatime.com/badge/github/EmmanuelObua/medicalstreet)
-[![wakatime](https://wakatime.com/badge/github/gobid/10-learningdollars-draj.svg)](https://wakatime.com/badge/github/gobid/10-learningdollars-draj)
-
 ![Obua's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelObua&count_private=true&theme=radical)
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelObua)](https://github.com/EmmanuelObua/github-readme-stats) --->
 [![Emmanuel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EmmanuelObua)](https://github.com/EmmanuelObua)
